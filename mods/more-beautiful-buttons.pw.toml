@@ -1,0 +1,13 @@
+name = "More Beautiful Buttons"
+filename = "more-beautiful-buttons-mod-1.18.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AVOkKRX2/versions/1.0.0/more-beautiful-buttons-mod-1.18.2-1.0.0.jar"
+hash-format = "sha1"
+hash = "9f1dad39f6c1abdbc401581f70040cd9504f3197"
+
+[update]
+[update.modrinth]
+mod-id = "AVOkKRX2"
+version = "etEj1ViV"

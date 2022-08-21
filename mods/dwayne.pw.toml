@@ -1,0 +1,13 @@
+name = "Dwayne \"The Block\" Johnson"
+filename = "dwayne-the-block-johnson-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vo6cW8dt/versions/2.1.1/dwayne-the-block-johnson-2.1.1.jar"
+hash-format = "sha1"
+hash = "aef582c672fd7c435902b0d2d317db94703c483c"
+
+[update]
+[update.modrinth]
+mod-id = "vo6cW8dt"
+version = "YIrzcm9C"

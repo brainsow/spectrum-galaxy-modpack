@@ -1,0 +1,16 @@
+name = "Spectrum Galaxy"
+author = "SGMT"
+version = "1.1.0-rc1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "490c73a6f978d9445f924bdf999ce9985fa1a60f04b3b0b2fcf54edcdc490519"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18-19.0.0"]

@@ -1,0 +1,13 @@
+name = "Cats Expanded"
+filename = "cats-expanded-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FIzl2Jhk/versions/1.1.0b+1.18.2/cats-expanded-1.1.0.jar"
+hash-format = "sha1"
+hash = "495d2e7c8028db7c114f2a69ca9492a414dd309e"
+
+[update]
+[update.modrinth]
+mod-id = "FIzl2Jhk"
+version = "JlwMoThm"

@@ -1,0 +1,13 @@
+name = "MoreLogBlocks"
+filename = "morelogblocks-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PtVD7NAO/versions/More%20Log%20Varaints%20v1.0.3/morelogblocks-1.0.3.jar"
+hash-format = "sha1"
+hash = "2603e37edbcd7227b4450fc5a302caa196b6e2e8"
+
+[update]
+[update.modrinth]
+mod-id = "PtVD7NAO"
+version = "AaUq1Rt7"

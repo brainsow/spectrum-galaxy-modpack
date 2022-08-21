@@ -1,0 +1,11 @@
+name = "Joban Client Mod"
+filename = "Joban-Client-Mod-fabric-1.18.2-1.1.4-hotfix-1.jar"
+side = "both"
+
+[download]
+url = "https://joban.tk/JCM/1.1.4a/Joban-Client-Mod-fabric-1.18.2-1.1.4-hotfix-1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "md5"
+hash = "41eba4cf35d4da5c2d744b90567c6044"

@@ -1,0 +1,13 @@
+name = "Pigeon Post"
+filename = "[1.18]+fabric-pigeonpost-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dCDci0Wn/versions/1.0/%5B1.18%5D%2Bfabric-pigeonpost-3.0.0.jar"
+hash-format = "sha1"
+hash = "8741f6699f1035930071df2e542dd4fae1a88ef5"
+
+[update]
+[update.modrinth]
+mod-id = "dCDci0Wn"
+version = "Pwq28WEt"

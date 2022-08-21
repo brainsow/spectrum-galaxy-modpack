@@ -1,0 +1,13 @@
+name = "Immersive Amethyst"
+filename = "immersive-amethyst-1.1-fabric-1.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5FA6UP0z/versions/1.2/immersive-amethyst-1.1-fabric-1.18.jar"
+hash-format = "sha1"
+hash = "a447401c0bc9cdffa92b1cec2461d347d7ea0bfd"
+
+[update]
+[update.modrinth]
+mod-id = "5FA6UP0z"
+version = "2WX2vPqZ"

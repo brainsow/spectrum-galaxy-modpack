@@ -1,0 +1,13 @@
+name = "Fox Pet"
+filename = "fox-pet-mod-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WL2aGtjA/versions/2.0.0/fox-pet-mod-2.0.0.jar"
+hash-format = "sha1"
+hash = "225f32eefc9ae5bf7e9ec49f699c7de47f9df44d"
+
+[update]
+[update.modrinth]
+mod-id = "WL2aGtjA"
+version = "38AneBak"

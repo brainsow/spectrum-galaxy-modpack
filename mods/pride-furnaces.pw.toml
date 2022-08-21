@@ -1,0 +1,13 @@
+name = "Pride Furnaces"
+filename = "pride-furnaces-1.0.0+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rJz2nAvZ/versions/1.0.0-1.18.2/pride-furnaces-1.0.0%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "817898d8f7156b51fc1c65565bcac7216ccea8b5"
+
+[update]
+[update.modrinth]
+mod-id = "rJz2nAvZ"
+version = "Iz8c4EQ7"

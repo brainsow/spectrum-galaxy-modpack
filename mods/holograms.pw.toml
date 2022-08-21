@@ -1,0 +1,13 @@
+name = "Holograms"
+filename = "holograms-1.3.1+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dl7wmhr3/versions/1.3.1+1.18.2/holograms-1.3.1+1.18.2.jar"
+hash-format = "sha1"
+hash = "e422ec6377244be3f6500d3ffe5238287708663b"
+
+[update]
+[update.modrinth]
+mod-id = "dl7wmhr3"
+version = "Mq7RFTPa"

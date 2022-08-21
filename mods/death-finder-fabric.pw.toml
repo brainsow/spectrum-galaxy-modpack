@@ -1,0 +1,13 @@
+name = "Death Finder [Fabric]"
+filename = "DeathFinder-v3.2.0-1.18.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c02c33bf9bf0479f10dcc06204050aa92e21400f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3671201
+project-id = 582835

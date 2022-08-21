@@ -1,0 +1,13 @@
+name = "Your Items Are Safe (Fabric)"
+filename = "youritemsaresafe-fabric_1.18.2-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b042e8928cb199ecc190e7220bd8752c6aa43f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3907667
+project-id = 575667

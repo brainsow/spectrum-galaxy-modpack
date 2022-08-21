@@ -1,0 +1,13 @@
+name = "FabricTPA"
+filename = "FabricTPA-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VWgEMCCl/versions/v3.1.1/FabricTPA-3.1.1.jar"
+hash-format = "sha1"
+hash = "fe66a2bfec3cdc5d262b5563e9887e50d1149ea5"
+
+[update]
+[update.modrinth]
+mod-id = "VWgEMCCl"
+version = "AEQZKNfD"

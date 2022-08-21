@@ -1,0 +1,13 @@
+name = "FabricHomes"
+filename = "FabricHomes-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VfWCmAVG/versions/2.2.1/FabricHomes-2.2.1.jar"
+hash-format = "sha1"
+hash = "cda8bfc0e46a8c563052cdfded71ed6f34b5f5a1"
+
+[update]
+[update.modrinth]
+mod-id = "VfWCmAVG"
+version = "xnEM7THr"

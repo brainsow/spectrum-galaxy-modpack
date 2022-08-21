@@ -1,0 +1,13 @@
+name = "Hyper Lighting [Fabric/Quilt]"
+filename = "HyperLightingFabric-1.18.2-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fFWOTz2b/versions/1.2.3/HyperLightingFabric-1.18.2-1.2.3.jar"
+hash-format = "sha1"
+hash = "3c2655d01393179fcd26cae8628a77a391df70fd"
+
+[update]
+[update.modrinth]
+mod-id = "fFWOTz2b"
+version = "jibBFZ9G"
