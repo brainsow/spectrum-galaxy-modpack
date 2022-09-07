@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/automodpack.pw.toml"
-hash = "6314b8bda1146e4fe1e4224a7b98b85e88569e169693b50e5134d6f01c74203f"
+hash = "59fe837a583a4517fb89c4793dbf6b57778582b8b48ca6c06e818d6d5393edcf"
 metafile = true
 
 [[files]]
@@ -170,12 +170,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
+hash = "8b29c1d3d76f1e6442852b7984b5e54e156eeef7fe59f55bd835dab5fe785d5f"
 metafile = true
 
 [[files]]
 file = "mods/collective-fabric.pw.toml"
-hash = "2d6b666637db70c5d43cd68d90b4075b6ad06adad9b49f2ecfbaf6a42e25dfe9"
+hash = "64a5b6395bcc57f638b69588115ea8b8b660848c26018752ec6e7b1524b3fa1f"
 metafile = true
 
 [[files]]
@@ -195,12 +195,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "d506aff4966cf0049497f348aecb880cd3dbade497746c84a91f6b3b133c47ae"
+hash = "3d01384f400c6e27910f7a84f4c9d151798db7fe04c60082ace7942ee6e0c8db"
 metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "ba99850c71a06482ef88cc18d8273c511e523c20fc96b1ce8cefd9adc98705fd"
+hash = "85e34af2fc1869a3d6e9b7f1f91b59dfdd124709b27482cd5864acb0d120213b"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "c05ca7078557e467449c1192dda0ed308bd1633a055c129b14e0e370b6099094"
+hash = "3c1416f98f13c6470bd14ad6c590374c39500c9cbf1a063cf73ac89ceae219de"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "11b335433cc612c811235eb74b30104b828f5049ad71e849577071ad2ff16b75"
+hash = "fde854f99ff1fbfffd3e7bc96d55185c2577b2117e82ba4e9d97a94b7396b014"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/megane.pw.toml"
-hash = "9a91df0b4bd7070f69ef1010e994626d118e6f02c6871297f567aa994023b062"
+hash = "88d204010e68a166c3906dc710a0843fc2d69416e67953ee276603b307338a9e"
 metafile = true
 
 [[files]]

@@ -3,11 +3,11 @@ filename = "AutoModpack-1.18.x.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/k68glP2e/versions/afIuSVYQ/AutoModpack-1.18.x.jar"
+url = "https://cdn.modrinth.com/data/k68glP2e/versions/qPHrfMQB/AutoModpack-1.18.x.jar"
 hash-format = "sha1"
-hash = "80b0013dba5b8db2e4b278abc2922377e6735c33"
+hash = "f2c4c817c4875e5b627d16c0c63f317cd94e447b"
 
 [update]
 [update.modrinth]
 mod-id = "k68glP2e"
-version = "afIuSVYQ"
+version = "qPHrfMQB"
