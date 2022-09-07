@@ -1,0 +1,13 @@
+name = "Not Enough Servers"
+filename = "not-enough-servers-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8YsY9SdM/versions/1.0.2-1.18/not-enough-servers-1.0.2.jar"
+hash-format = "sha1"
+hash = "e76f5b89d20b7e4dc98a18e6e7aad4399162ae70"
+
+[update]
+[update.modrinth]
+mod-id = "8YsY9SdM"
+version = "thGwHgMR"

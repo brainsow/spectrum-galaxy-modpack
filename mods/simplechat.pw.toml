@@ -1,0 +1,13 @@
+name = "SimpleChat - Chat mod for Fabric servers"
+filename = "simplechat-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2KNt6S40/versions/1.3.0/simplechat-1.3.0.jar"
+hash-format = "sha1"
+hash = "782b63784a14560023f8cb6729f79e2b216534e7"
+
+[update]
+[update.modrinth]
+mod-id = "2KNt6S40"
+version = "NazxWAod"

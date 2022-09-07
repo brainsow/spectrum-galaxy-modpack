@@ -1,0 +1,13 @@
+name = "Air Hop [Outdated]"
+filename = "AirHop-v3.2.0-1.18.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce7de1efaf344b1df4a3fbb932f3a943fd325f3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3671161
+project-id = 582916

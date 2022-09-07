@@ -1,0 +1,13 @@
+name = "Wires"
+filename = "wires-1.0.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jEqTJ86x/versions/1.0.5/wires-1.0.5.jar"
+hash-format = "sha1"
+hash = "7e223dc84a9b6df0d1ba45c830f8747d21c9dd8d"
+
+[update]
+[update.modrinth]
+mod-id = "jEqTJ86x"
+version = "McF2NaUA"
