@@ -54,11 +54,6 @@ hash = "d73c7811ad35da54efbab975b0367012124a045f09cad6b1e02c5e880449fce5"
 metafile = true
 
 [[files]]
-file = "mods/automodpack.pw.toml"
-hash = "59fe837a583a4517fb89c4793dbf6b57778582b8b48ca6c06e818d6d5393edcf"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
@@ -461,11 +456,6 @@ metafile = true
 [[files]]
 file = "mods/mbb.pw.toml"
 hash = "5d9e958a69cc1e426147d7017b8c95018b7d7a6b2ddfaa80a4f1f8759942ed86"
-metafile = true
-
-[[files]]
-file = "mods/megane.pw.toml"
-hash = "88d204010e68a166c3906dc710a0843fc2d69416e67953ee276603b307338a9e"
 metafile = true
 
 [[files]]
