@@ -559,11 +559,6 @@ hash = "d027d7e40ff623be9493de93567061f0e1b31fa51b7fa1ff8be656e3763dcadd"
 metafile = true
 
 [[files]]
-file = "mods/player-roles.pw.toml"
-hash = "394385e59244ab95d2a8ef24ac2fb730bc1279354dcb4e66d50cc16292d9dc4f"
-metafile = true
-
-[[files]]
 file = "mods/pride-furnaces.pw.toml"
 hash = "9d34d23b52a10d9462122856d4397caf8808faf0b8741aed0156a2f0a6f00aff"
 metafile = true
