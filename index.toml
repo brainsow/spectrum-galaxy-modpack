@@ -79,11 +79,6 @@ hash = "9793a50a86ab7b2d2419fa4c3eca9b04df55ece3250f75d6e70f0c44fd2ed453"
 metafile = true
 
 [[files]]
-file = "mods/biome-particle-weather.pw.toml"
-hash = "1e21ac6196a51389a5cebe9982c1902026e3c6164d3d8ad8eaaf428f21e0ece2"
-metafile = true
-
-[[files]]
 file = "mods/biome_particle_weather.pw.toml"
 hash = "e5f6cbe78cdf154dfdd59b680a88afa6521ab2b2a1066ccc81cd41b8a68d2b06"
 metafile = true
@@ -456,11 +451,6 @@ metafile = true
 [[files]]
 file = "mods/mbb.pw.toml"
 hash = "5d9e958a69cc1e426147d7017b8c95018b7d7a6b2ddfaa80a4f1f8759942ed86"
-metafile = true
-
-[[files]]
-file = "mods/megaparrot.pw.toml"
-hash = "0225fb94694fdbdb08ffb9917483074380ffb50ddce7afa19ac20be646f221f5"
 metafile = true
 
 [[files]]
