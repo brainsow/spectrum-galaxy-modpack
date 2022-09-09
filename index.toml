@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "8b29c1d3d76f1e6442852b7984b5e54e156eeef7fe59f55bd835dab5fe785d5f"
+hash = "8f07b2408013a7217caacec87c977635fdf94eb21a10bf281f2bba67ff7c4dc1"
 metafile = true
 
 [[files]]
@@ -170,12 +170,12 @@ metafile = true
 
 [[files]]
 file = "mods/connectible_chains.pw.toml"
-hash = "ed29ea2b03e5f7bf32a0a3ade6a9b2fa8d6e89656e5644f73172f9d2059802f4"
+hash = "75583263cd5bc72f47f2f5d3e35496e63570cfcfb6c14d63a8743bee268a83f9"
 metafile = true
 
 [[files]]
 file = "mods/cosmetica.pw.toml"
-hash = "c13c55a376e398d92b0e1b83f3896a3f780f93a5df575241c80ef5990a72904f"
+hash = "b58c7ad1049a771fbd4f75507a2c73306c3afba3c37e96bff4fd3f52d2e03147"
 metafile = true
 
 [[files]]
@@ -429,6 +429,11 @@ hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
 
 [[files]]
+file = "mods/london-underground.pw.toml"
+hash = "fe61c8b67c8d766f5ebb32592f6c98f58dbbe39bd5af882b7ad0b0c90c11fd16"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "0275777920657261043489967aac4fb9c5f43817b2c1a41cffd74f9a554b4ac2"
 metafile = true
@@ -460,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "2b6be4f19044354ead6b04f847f85ef025d42bf026f6ae0b3dde44637f3d0fb5"
+hash = "2bc8fb419b8e5fab4860797a0c1b248ce76990c876c50823f8638c7fbcb17a86"
 metafile = true
 
 [[files]]
