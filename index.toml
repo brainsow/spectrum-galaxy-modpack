@@ -354,13 +354,13 @@ hash = "4aaca2ff5a41c228fab619d11241204df5d5eb73e32a9fc7a26d4b98f34e7a5b"
 metafile = true
 
 [[files]]
-file = "mods/jello.pw.toml"
-hash = "0a8675dd6b8d247ce9def7761ab1c8314ae37e854067431192247e8e4b58bbd5"
+file = "mods/jcm.pw.toml"
+hash = "a04f95a6f9844f5a3883fa42b650c089aee9150707dc12caab7947ffeaef0d76"
 metafile = true
 
 [[files]]
-file = "mods/joban.pw.toml"
-hash = "b2bfad862b26c221ad810857fbf4acb030bc14cf96e958a71da09402cd12c64f"
+file = "mods/jello.pw.toml"
+hash = "0a8675dd6b8d247ce9def7761ab1c8314ae37e854067431192247e8e4b58bbd5"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Joban Client Mod"
+filename = "Joban-Client-Mod-fabric-1.18.2-1.1.5-hotfix-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lQqKCDhg/versions/3eLf6Nna/Joban-Client-Mod-fabric-1.18.2-1.1.5-hotfix-1.jar"
+hash-format = "sha1"
+hash = "3c25773379c6f0de2c5f2dcf5afb4811ec9054ad"
+
+[update]
+[update.modrinth]
+mod-id = "lQqKCDhg"
+version = "3eLf6Nna"
