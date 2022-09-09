@@ -8,4 +8,4 @@ url = "https://joban.tk/JCM/1.1.5-hotfix-1/Joban-Client-Mod-fabric-1.18.2-1.1.5-
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "md5"
-hash = "d41d8cd98f00b204e9800998ecf8427e"
+hash = "f0f438bc6dec6ccfbea3cf65eb89c268"
