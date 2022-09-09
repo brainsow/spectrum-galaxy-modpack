@@ -169,11 +169,6 @@ hash = "64a5b6395bcc57f638b69588115ea8b8b660848c26018752ec6e7b1524b3fa1f"
 metafile = true
 
 [[files]]
-file = "mods/connectible_chains.pw.toml"
-hash = "75583263cd5bc72f47f2f5d3e35496e63570cfcfb6c14d63a8743bee268a83f9"
-metafile = true
-
-[[files]]
 file = "mods/cosmetica.pw.toml"
 hash = "b58c7ad1049a771fbd4f75507a2c73306c3afba3c37e96bff4fd3f52d2e03147"
 metafile = true
