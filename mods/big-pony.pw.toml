@@ -1,0 +1,18 @@
+name = "Big Pony"
+filename = "bigpony-1.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h9pJxJR9/versions/1.6.2/bigpony-1.6.2.jar"
+hash-format = "sha1"
+hash = "37098bb35a1c704857b84c5aed7902d9389250df"
+
+[update]
+[update.modrinth]
+mod-id = "h9pJxJR9"
+version = "8AB8Nfx1"
+
+[option]
+optional = true
+default = false
+description = "Be the BIG pony! (conflicts with Cosmetica)"

@@ -79,6 +79,11 @@ hash = "9793a50a86ab7b2d2419fa4c3eca9b04df55ece3250f75d6e70f0c44fd2ed453"
 metafile = true
 
 [[files]]
+file = "mods/big-pony.pw.toml"
+hash = "a1913053c9e3ac28431410ba58329f3dbe1f4104a674582be4d77be7d12fb5a0"
+metafile = true
+
+[[files]]
 file = "mods/biome_particle_weather.pw.toml"
 hash = "e5f6cbe78cdf154dfdd59b680a88afa6521ab2b2a1066ccc81cd41b8a68d2b06"
 metafile = true
@@ -170,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetica.pw.toml"
-hash = "b58c7ad1049a771fbd4f75507a2c73306c3afba3c37e96bff4fd3f52d2e03147"
+hash = "e48fe7ee23959699ffd1a40b8f4a77bdeb34699ef917b387459547a97721d389"
 metafile = true
 
 [[files]]
@@ -360,12 +365,12 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
-hash = "b036ebb6c9f3a7177220ec7f5fc6bc84186a9236837b30d2bc3ad9667b617b03"
+hash = "45c431c2bbe91babef7b9e4a42a89439b24fcc8e6beff252d791d587e64f315d"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "3804ed093c0654b04502966d170014bd4387aa32f563882a1b9bdc21339dff79"
+hash = "3098fd4b9c970ea13206469bb4da3694d7c7fa2b90932072cc642070f837436d"
 metafile = true
 
 [[files]]
@@ -456,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "f61810be98ef52436d3355ecfa4354bc47d142cbe9468fbd14415e5bc6d66125"
+metafile = true
+
+[[files]]
+file = "mods/mine-little-pony.pw.toml"
+hash = "47ed412af785742e98bfc019822b9439f740d0ebf48db18ca2e7e830ca6d6b86"
 metafile = true
 
 [[files]]

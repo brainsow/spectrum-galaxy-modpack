@@ -11,3 +11,8 @@ hash = "deba35f4e533ee4231f7378a2eea2b3665598679"
 [update.modrinth]
 mod-id = "lfHFW1mp"
 version = "fAg6IGvo"
+
+[option]
+optional = true
+default = true
+description = "Mapping and waypoints"
