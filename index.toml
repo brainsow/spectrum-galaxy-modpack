@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/resounding.pw.toml"
-hash = "05ea6e2779b328bb999d3e326ff14f388e73581c4090077b4235d5761e34e406"
+hash = "2fe75872873a55f039115814479006cd930b57c9abd363e4e49caaf9a8426942"
 metafile = true
 
 [[files]]
