@@ -109,6 +109,11 @@ hash = "37a75aa36e869ed6aeac736e5718e2e43c3381f16707ac1fdaab8a2b7c3da9c8"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "0c76984563c7d1f4d08b94cd375d3507dec6e013ad7f7de1993718e50ce2b666"
+metafile = true
+
+[[files]]
 file = "mods/cammies-wearable-backpacks.pw.toml"
 hash = "74cdf6810bb4c11f002b4494a3ebd9f42f85fc60d0640a82838a7cee910cdd95"
 metafile = true
@@ -614,6 +619,11 @@ hash = "b55d9d1ea5b5cadde5973123c0c644065f905afff5ea8d3d24c6d6564a7470cd"
 metafile = true
 
 [[files]]
+file = "mods/starlight.pw.toml"
+hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+metafile = true
+
+[[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "2491342f17564e624af0012511e74ca2d1e0943ebd3ad1e84140c17976608eb7"
 metafile = true
@@ -621,6 +631,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
+metafile = true
+
+[[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "f432769b08aa82fe8f4f8543171434e4ff205bb7d7ec2c4dd7631b9ba7eb2955"
 metafile = true
 
 [[files]]
