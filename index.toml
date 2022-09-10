@@ -369,11 +369,6 @@ hash = "7f3ec3c200f02733b2b5efc945fca3654213b31fb1e934a041e8b761cc306040"
 metafile = true
 
 [[files]]
-file = "mods/kews-more-blocks.pw.toml"
-hash = "717bdf058748286c7634e242472092e86e156467d2bf9f270bd4c3f41cef4e2f"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
