@@ -89,6 +89,11 @@ hash = "1a2a842f2a91a1638056363e6263e7dc103e6fd5f8a72f8160ee76f0e5a04f9f"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "1dea45a775887e68b1cafb587498dfa5514b3ea8d17ea58783920397f89ff7d7"
+metafile = true
+
+[[files]]
 file = "mods/blockus.pw.toml"
 hash = "333ba62ec673100991f9c654b7e67a37b8394d66dc29453d22df83a9c2212432"
 metafile = true
@@ -451,11 +456,6 @@ metafile = true
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "2b6be4f19044354ead6b04f847f85ef025d42bf026f6ae0b3dde44637f3d0fb5"
-metafile = true
-
-[[files]]
-file = "mods/minegate.pw.toml"
-hash = "93bb5e3099202975a22ac70b751ca63b8524b94357ff96db87fbebea5d835bed"
 metafile = true
 
 [[files]]
