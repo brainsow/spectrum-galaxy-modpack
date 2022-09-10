@@ -14,5 +14,5 @@ version = "acFZc9lT"
 
 [option]
 optional = true
-default = true
-description = "[Audio] Voice chat (not compatible with resound)"
+default = false
+description = "[Audio] Voice chat (incompatible with resounding)"

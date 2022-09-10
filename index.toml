@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "411883ebcb6bd46a4be9a30d1fd946486017a1f34ab39b274f29f8cb025bcb41"
+hash = "4aa4bf300d0030f33cae2da9561e878d6770250bfdfcc65149d236ec6141f635"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/resounding.pw.toml"
-hash = "c537808775d23b10bab57f859614e3b17a40796b0b2f08ce6729e5a192b5496e"
+hash = "05ea6e2779b328bb999d3e326ff14f388e73581c4090077b4235d5761e34e406"
 metafile = true
 
 [[files]]
