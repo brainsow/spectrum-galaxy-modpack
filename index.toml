@@ -59,11 +59,6 @@ hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
 
 [[files]]
-file = "mods/bagels-baking.pw.toml"
-hash = "d20e9001535b1abf2a52139c0c94ef314830b7141dd97a97681bd5ee589935b9"
-metafile = true
-
-[[files]]
 file = "mods/beebuddy.pw.toml"
 hash = "25a5a0dd241fc782635cad404928967a7ad54397aca1cd388334693732efa45c"
 metafile = true
@@ -266,11 +261,6 @@ metafile = true
 [[files]]
 file = "mods/fabrictpa.pw.toml"
 hash = "377d29392263969956a70211ec0a892e6d118f8957d9243787c642c51a71351c"
-metafile = true
-
-[[files]]
-file = "mods/fallingtree.pw.toml"
-hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
 metafile = true
 
 [[files]]
@@ -641,6 +631,11 @@ metafile = true
 [[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "5b2c329508f6b527f2994e9c0c6ef0ee704a7aa91148538a625dd784a0a20e71"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
 metafile = true
 
 [[files]]
