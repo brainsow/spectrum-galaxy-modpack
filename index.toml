@@ -514,11 +514,6 @@ hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.pw.toml"
-hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
-metafile = true
-
-[[files]]
 file = "mods/pick-up-notifier-fabric.pw.toml"
 hash = "a7c91880d5bd29b227e94df3dd4aee00b0f894bd6de0879ea027bb10b68ce5c1"
 metafile = true
