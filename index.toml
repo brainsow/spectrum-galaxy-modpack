@@ -229,11 +229,6 @@ hash = "3c1416f98f13c6470bd14ad6c590374c39500c9cbf1a063cf73ac89ceae219de"
 metafile = true
 
 [[files]]
-file = "mods/enchanted-vertical-slabs.pw.toml"
-hash = "75d69732e0155a39b596d4aacfa279d87695f2d331eba5cde113be3647dd563c"
-metafile = true
-
-[[files]]
 file = "mods/enchanting-infuser-fabric.pw.toml"
 hash = "4205933c2ef9f3426c0c1388b4701f884bf321f5a90f3dd4bde0698111fa173e"
 metafile = true
