@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3697298
 project-id = 225608
+
+[option]
+optional = true
+default = true
+description = "[WorldEdit] Bulk world editing"

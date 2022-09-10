@@ -11,3 +11,8 @@ hash = "4c0d3c6500cbe4f3079109d1b3d333a6da672a07"
 [update.modrinth]
 mod-id = "5srFLIaK"
 version = "2EEKJCHK"
+
+[option]
+optional = true
+default = true
+description = "[Visual] Better looking clouds"

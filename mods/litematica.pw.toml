@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3783909
 project-id = 308892
+
+[option]
+optional = true
+default = true
+description = "[Schematics] Allows working with schematics"

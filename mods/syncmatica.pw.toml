@@ -11,3 +11,8 @@ hash = "c41b31117d1d509d82f0d114218466361553d4bd"
 [update.modrinth]
 mod-id = "bfneejKo"
 version = "a9hccqwJ"
+
+[option]
+optional = true
+default = true
+description = "[Schematics] Allows syncing schematics to the server"

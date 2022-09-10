@@ -11,3 +11,8 @@ hash = "463fecec40447519a9a32c1c178a962799583add"
 [update.modrinth]
 mod-id = "mOgUt4GM"
 version = "cx9D94fU"
+
+[option]
+optional = true
+default = true
+description = "[Verbosity] Show the currently loaded mods in the GUI"

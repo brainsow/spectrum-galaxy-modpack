@@ -11,3 +11,8 @@ hash = "fa197e19d524c2cefe01ff6b2f591f4efc30e378"
 [update.modrinth]
 mod-id = "ZfQ3kTvR"
 version = "oDlgxjWQ"
+
+[option]
+optional = true
+default = true
+description = "[Performance] Improve game startup speed"

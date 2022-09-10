@@ -11,3 +11,8 @@ hash = "4a89ae6f58f4afe5a090f164ab616edc25f96090"
 [update.modrinth]
 mod-id = "HCbarMw6"
 version = "3m6ZHn8B"
+
+[option]
+optional = true
+default = true
+description = "[Schematics] Allows pasting to the server"

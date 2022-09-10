@@ -11,3 +11,8 @@ hash = "90ac5064aab9cd9d311eaa9ff36e001c1af4586e"
 [update.modrinth]
 mod-id = "3wGWhm8A"
 version = "902xzv6F"
+
+[option]
+optional = true
+default = true
+description = "[Hacking] write javascript to control minecraft"

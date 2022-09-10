@@ -11,3 +11,8 @@ hash = "e1285b783d3d5a196cd61661eb0aaf428edcf9c1"
 [update.modrinth]
 mod-id = "F1AqcMCK"
 version = "lcvmBn25"
+
+[option]
+optional = true
+default = true
+description = "[Inventory] Customizable inventory tabs"

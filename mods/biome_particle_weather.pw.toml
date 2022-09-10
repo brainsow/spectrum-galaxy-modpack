@@ -11,3 +11,8 @@ hash = "8b244000ccb031ce8dd33b8c61dc305f0d427146"
 [update.modrinth]
 mod-id = "XH09j5fH"
 version = "fIcFdPfI"
+
+[option]
+optional = true
+default = true
+description = "[Immersion] Realitistic biome-specific weather"

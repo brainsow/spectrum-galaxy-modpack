@@ -11,3 +11,8 @@ hash = "bc3c087872d7fae4335949f5a7eed9faa29c8db1"
 [update.modrinth]
 mod-id = "m9FFV06N"
 version = "kPxAWPdr"
+
+[option]
+optional = true
+default = true
+description = "[GUI] Rainbowify the GUI background"

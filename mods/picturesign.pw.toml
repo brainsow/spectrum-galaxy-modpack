@@ -11,3 +11,8 @@ hash = "3ee5f175f49d34d3e341a15e22dc7a4f215aa0e4"
 [update.modrinth]
 mod-id = "9WP2dmkk"
 version = "sp5zDrrv"
+
+[option]
+optional = true
+default = true
+description = "[Visual] Show photos from the internet"

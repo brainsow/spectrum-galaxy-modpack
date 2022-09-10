@@ -11,3 +11,8 @@ hash = "cc865b83a79ac414433433d16a22154106370253"
 [update.modrinth]
 mod-id = "1yIQcc2b"
 version = "cMtnJlCl"
+
+[option]
+optional = true
+default = true
+description = "[GUI] Customizable Heads Up Display"

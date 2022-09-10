@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3822191
 project-id = 341888
+
+[option]
+optional = true
+default = true
+description = "[Quality of Life] Mine a vien at once!"

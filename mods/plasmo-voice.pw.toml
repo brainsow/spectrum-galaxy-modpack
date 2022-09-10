@@ -11,3 +11,8 @@ hash = "72c305c56b654f7bb9627b384d192542b93dc1ca"
 [update.modrinth]
 mod-id = "1bZhdhsH"
 version = "acFZc9lT"
+
+[option]
+optional = true
+default = true
+description = "[Audio] Voice chat (not compatible with resound)"

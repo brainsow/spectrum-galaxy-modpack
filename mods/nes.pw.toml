@@ -11,3 +11,8 @@ hash = "e76f5b89d20b7e4dc98a18e6e7aad4399162ae70"
 [update.modrinth]
 mod-id = "8YsY9SdM"
 version = "thGwHgMR"
+
+[option]
+optional = true
+default = true
+description = "[Verbosity] Shows more server information"

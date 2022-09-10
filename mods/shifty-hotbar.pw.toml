@@ -11,3 +11,8 @@ hash = "024d47cecba35582f3c93a03596a7c64225d8639"
 [update.modrinth]
 mod-id = "Vtzg2pos"
 version = "vV9mzEAC"
+
+[option]
+optional = true
+default = true
+description = "[Inventory] Move the hotbar around with arrow keys"

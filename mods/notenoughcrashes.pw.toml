@@ -11,3 +11,8 @@ hash = "ef051ab6a831f7ffd03162e54b2e997b604efaca"
 [update.modrinth]
 mod-id = "yM94ont6"
 version = "3jOKpa3T"
+
+[option]
+optional = true
+default = true
+description = "[Verbosity] Helps deobsfucate crash logs"

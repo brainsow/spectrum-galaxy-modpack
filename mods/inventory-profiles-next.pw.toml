@@ -11,3 +11,8 @@ hash = "6c9078e18c279c1200605d6c6011646e282219ef"
 [update.modrinth]
 mod-id = "O7RBXm3n"
 version = "N8VHYD9i"
+
+[option]
+optional = true
+default = true
+description = "[Inventory] Lots of inventory features"

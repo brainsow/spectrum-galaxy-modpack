@@ -11,3 +11,8 @@ hash = "970e34b6bc69a581aadca2786b9a4490319f35f9"
 [update.modrinth]
 mod-id = "kKwy3HU9"
 version = "JB2PhlW1"
+
+[option]
+optional = true
+default = true
+description = "[Visual] Better looking beds"

@@ -11,3 +11,8 @@ hash = "9dbfd3db0d14fea596396629769354e4d8ffa150"
 [update.modrinth]
 mod-id = "HcVOCzMh"
 version = "BPCPnIl9"
+
+[option]
+optional = true
+default = true
+description = "[Accessibilty] Prevents dropping items accidentily."

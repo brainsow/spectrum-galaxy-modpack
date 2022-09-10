@@ -11,3 +11,8 @@ hash = "50b8f9e1cddc28d6bae004a4e17b97b4fd15fa0c"
 [update.modrinth]
 mod-id = "xBMX8ICO"
 version = "mAGfo6Py"
+
+[option]
+optional = true
+default = true
+description = "[WorldEdit] Items to use for bulk world editing"
