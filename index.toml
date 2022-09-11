@@ -259,11 +259,6 @@ hash = "c869450d46235167b9e0c847ff36e4f4b6c82fd135a879448f1e0d5758c9bae9"
 metafile = true
 
 [[files]]
-file = "mods/expanded-delight.pw.toml"
-hash = "b6196b0778e20f4a802086f2a2f27b72f52650d9919d416151902e0f8ddc96d5"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "d95379da217fbae889dc9b9e66a55d484ee63a28da2ffc9d79bd020cc4e2cc8d"
 metafile = true
