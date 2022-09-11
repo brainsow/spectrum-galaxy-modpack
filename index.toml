@@ -9,6 +9,11 @@ file = "README.md"
 hash = "3dfc4650e73310e86deccb987f7df466171c049770545a9d4dbfbd449e9d7b84"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-fabric.pw.toml"
 hash = "e811d65502a6c345c43b362ee1ad883dabef1a860ef6101a4dd3e65f883d59b4"
 metafile = true
@@ -71,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "7c290f30c3ab8c5942de0c9b2327ee3fd8d1399b858fb1338b4ddcfeec041cb4"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "b831a7f0de8fbe6d8d1e9bba0acd2c6e80ebc7efd8bfdf9cff62804079660ec8"
 metafile = true
 
 [[files]]
@@ -166,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/chickensshed.pw.toml"
 hash = "1f5a19d201395e59b929e481fb350f4fa566ae0c58973e72e99779dfdb7af92f"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "5b959ed2914ad006d1ad11579656c8a263c9f4293e85c0931da104be20843a10"
 metafile = true
 
 [[files]]
@@ -506,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/nicemod.pw.toml"
 hash = "184b759b74d3371ade9854851654ed63abd12d03933a338b6731fdacc9ee34e6"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
 metafile = true
 
 [[files]]
