@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".minecraft/config/customsplashscreen/customsplashscreen.json5"
+hash = "57678ebf7f1d8eecede4b04265a4c63e3cec8f4010929543838a4c0430ac7f2c"
+
+[[files]]
+file = ".minecraft/config/customsplashscreen/customsplashscreen/background.png"
+hash = "2ab84b59aa1c9e4fd5d3b18493ce36407e615ec0e04a83502aaae28a45eea4a0"
+
+[[files]]
+file = ".minecraft/config/customsplashscreen/customsplashscreen/mojangstudios.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
+file = ".minecraft/config/customsplashscreen/customsplashscreen/mojank.png"
+hash = "7e4897e9f11f9c44aaafdf6c5890803ff5e2908806748f89f1ac596e4e612f42"
+
+[[files]]
+file = ".minecraft/config/customsplashscreen/customsplashscreen/progressbar.png"
+hash = "e2e0555e30fd677e05570551f36d3a95fd844dcadc62b15e4f901c3442a5e3c7"
+
+[[files]]
+file = ".minecraft/config/customsplashscreen/customsplashscreen/progressbar_background.png"
+hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
+
+[[files]]
 file = "LICENSE"
 hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
@@ -10,7 +34,7 @@ hash = "3dfc4650e73310e86deccb987f7df466171c049770545a9d4dbfbd449e9d7b84"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
+hash = "2f49ef1837a89736efa9c58baaafce51b36a27cf1130ab58438efc1b394baa51"
 metafile = true
 
 [[files]]
