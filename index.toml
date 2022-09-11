@@ -194,8 +194,18 @@ hash = "3d01384f400c6e27910f7a84f4c9d151798db7fe04c60082ace7942ee6e0c8db"
 metafile = true
 
 [[files]]
+file = "mods/custom-splash-screen.pw.toml"
+hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "28ac5f22aa9f6858e3d75145d69c7aae3a7c0a5cfe7bd0459721dde43d11105f"
+metafile = true
+
+[[files]]
+file = "mods/decorative.pw.toml"
+hash = "2e6f19b5ae18be16fa8e447ac0e645f080c957299e721be8dc6fc0f8ddf4286b"
 metafile = true
 
 [[files]]
@@ -246,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/evergreenhud.pw.toml"
 hash = "c869450d46235167b9e0c847ff36e4f4b6c82fd135a879448f1e0d5758c9bae9"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "b6196b0778e20f4a802086f2a2f27b72f52650d9919d416151902e0f8ddc96d5"
 metafile = true
 
 [[files]]
@@ -306,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/half-doors.pw.toml"
 hash = "933bae280bc8e1d572b3052f7912aa50929bc7e30be6a774bee0aba678babdc3"
+metafile = true
+
+[[files]]
+file = "mods/harvest-scythes.pw.toml"
+hash = "74c9be71a3c187077641a145024522dac63ca2b6eed538f35afab0704906050e"
 metafile = true
 
 [[files]]
@@ -584,6 +604,11 @@ hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
 metafile = true
 
 [[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "a2eeafe4895384163835003003991d4f3e09d867135144d49eeed8f4358e690d"
+metafile = true
+
+[[files]]
 file = "mods/server-redirect.pw.toml"
 hash = "985faa0fa9cc132782278a10885e83f1c429993ed89ac6ba3ba45a1dc1ca29f5"
 metafile = true
@@ -676,6 +701,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench-fabric.pw.toml"
 hash = "8491ecf19a6e4e32088a8a16999ee87a0ef3be607dbf1df6f8a14290315d585c"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "273e4674396016743926c2892930c0bd347c15e5c488e97f687dcd447113857e"
 metafile = true
 
 [[files]]
