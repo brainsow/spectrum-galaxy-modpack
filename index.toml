@@ -154,6 +154,11 @@ hash = "b2178548f5398b37538a5f6dab59e0b52eba80aaac3779936822725e98d7e058"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "ce68fe066c471b3a2c503e694c3b88581ad5af3e509f8c5cf672adeb1adf11f2"
+metafile = true
+
+[[files]]
 file = "mods/cats-expanded.pw.toml"
 hash = "bc92bfcd7cc923bd3447e671d0bac8f3c3898290c8ceb8f550899e80b5be70ee"
 metafile = true
