@@ -313,6 +313,11 @@ hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
+file = "mods/fabric-nmtq.pw.toml"
+hash = "4fb74df78a152a80266d0a192daeaeb3859d1a80a5229dad67bdd04481d886f3"
+metafile = true
+
+[[files]]
 file = "mods/fabrichomes.pw.toml"
 hash = "b1914c6e0c5d9d2602aa112e25a6a879a7f839ed7b941fd2851107479ae5be46"
 metafile = true

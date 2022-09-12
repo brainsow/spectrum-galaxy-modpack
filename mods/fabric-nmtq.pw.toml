@@ -1,0 +1,13 @@
+name = "Fabric NMTQ"
+filename = "fabric-nmtq-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pyu9hDu6/versions/1.0.1/fabric-nmtq-1.0.1.jar"
+hash-format = "sha1"
+hash = "5e03ea9c9f3a861196be2aecc12a6b312afc4878"
+
+[update]
+[update.modrinth]
+mod-id = "pyu9hDu6"
+version = "gVZVuDvq"
