@@ -693,6 +693,11 @@ hash = "b55d9d1ea5b5cadde5973123c0c644065f905afff5ea8d3d24c6d6564a7470cd"
 metafile = true
 
 [[files]]
+file = "mods/spectrum.pw.toml"
+hash = "4785f5b4b9a75755565abbe3c43e13b4c07bc32c48c540f24a137e134bba3ee5"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
