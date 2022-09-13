@@ -223,11 +223,6 @@ hash = "64a5b6395bcc57f638b69588115ea8b8b660848c26018752ec6e7b1524b3fa1f"
 metafile = true
 
 [[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "e48fe7ee23959699ffd1a40b8f4a77bdeb34699ef917b387459547a97721d389"
-metafile = true
-
-[[files]]
 file = "mods/cozycabincore.pw.toml"
 hash = "7e1134f4f52429f27d98f8776d366cd37396bce3c8d0a4f455eb9ffa836a4681"
 metafile = true
