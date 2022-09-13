@@ -618,11 +618,6 @@ hash = "1e2327ceebc672aabdb2c4ea07921cbe0db98a368feafc7292edd528b70f659a"
 metafile = true
 
 [[files]]
-file = "mods/resounding.pw.toml"
-hash = "2fe75872873a55f039115814479006cd930b57c9abd363e4e49caaf9a8426942"
-metafile = true
-
-[[files]]
 file = "mods/revelationary.pw.toml"
 hash = "99005398da800d641c7af808a9b56093f1c07e37540d6ec670afd4180bd84852"
 metafile = true
