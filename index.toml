@@ -148,11 +148,6 @@ hash = "37a75aa36e869ed6aeac736e5718e2e43c3381f16707ac1fdaab8a2b7c3da9c8"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "0c76984563c7d1f4d08b94cd375d3507dec6e013ad7f7de1993718e50ce2b666"
-metafile = true
-
-[[files]]
 file = "mods/cammies-wearable-backpacks.pw.toml"
 hash = "74cdf6810bb4c11f002b4494a3ebd9f42f85fc60d0640a82838a7cee910cdd95"
 metafile = true
