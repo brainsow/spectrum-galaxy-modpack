@@ -83,6 +83,11 @@ hash = "d73c7811ad35da54efbab975b0367012124a045f09cad6b1e02c5e880449fce5"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "f289bc692546a62e43cefec49c760fcf7ed6fe2a0e42181d04b61afdbd8c02f4"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
@@ -530,6 +535,11 @@ metafile = true
 [[files]]
 file = "mods/more-log-blocks.pw.toml"
 hash = "d802b5bcd8f35e7b341f75dc9918b61f5f815db686e4f4b98b8c7d8d8bab14c7"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "cc3da4b62d83c6f7c9dd4ba448d23fd507d305115c2a3146515cec9f62e90a75"
 metafile = true
 
 [[files]]
