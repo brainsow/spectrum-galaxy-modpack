@@ -1,18 +1,18 @@
 name = "Litematica Server Paster"
-filename = "litematica-server-paster-mc1.18.2-v1.1.0.jar"
+filename = "litematica-server-paster-mc1.18.2-v1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HCbarMw6/versions/mc1.18.2-v1.1.0/litematica-server-paster-mc1.18.2-v1.1.0.jar"
+url = "https://cdn.modrinth.com/data/HCbarMw6/versions/uK8oMYNS/litematica-server-paster-mc1.18.2-v1.1.1.jar"
 hash-format = "sha1"
-hash = "4a89ae6f58f4afe5a090f164ab616edc25f96090"
+hash = "d3ddfa984e060b935c1b30ecada99385b073635e"
 
 [update]
 [update.modrinth]
 mod-id = "HCbarMw6"
-version = "3m6ZHn8B"
+version = "uK8oMYNS"
 
 [option]
 optional = true
-default = true
 description = "[Schematics] Allows pasting to the server"
+default = true

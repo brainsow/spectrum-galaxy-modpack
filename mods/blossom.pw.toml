@@ -1,13 +1,13 @@
 name = "Blossom"
-filename = "blossom-fabric-1.18.2-1.0.5.jar"
+filename = "blossom-fabric-1.18.2-1.0.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2601bfce6a354cb560a8695588379447e1452178"
+hash = "853ba3f0c3f9754096a857f6923f1651ca6e2349"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3822174
+file-id = 4104903
 project-id = 575248

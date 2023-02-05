@@ -1,13 +1,13 @@
 name = "Harvest Scythes"
-filename = "wraith-harvestscythes-2.5.1.jar"
+filename = "wraith-harvestscythes-2.5.2+mc1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TQyaHwzF/versions/2.5.1/wraith-harvestscythes-2.5.1.jar"
+url = "https://cdn.modrinth.com/data/TQyaHwzF/versions/X5bzAcBB/wraith-harvestscythes-2.5.2%2Bmc1.18.2.jar"
 hash-format = "sha1"
-hash = "6014ec25417b1e416343dd2660dcf3e11f28bd8d"
+hash = "168e8e97adf044d7defcf2ddf27112e7b391a601"
 
 [update]
 [update.modrinth]
 mod-id = "TQyaHwzF"
-version = "hv2aJ6zL"
+version = "X5bzAcBB"

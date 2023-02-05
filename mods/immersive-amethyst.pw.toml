@@ -1,13 +1,13 @@
 name = "Immersive Amethyst"
-filename = "immersive-amethyst-1.1-fabric-1.18.jar"
+filename = "immersive-amethyst-2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5FA6UP0z/versions/1.2/immersive-amethyst-1.1-fabric-1.18.jar"
+url = "https://cdn.modrinth.com/data/5FA6UP0z/versions/U3GBdzpn/immersive-amethyst-2.0.jar"
 hash-format = "sha1"
-hash = "a447401c0bc9cdffa92b1cec2461d347d7ea0bfd"
+hash = "3f779a421b5148832046f2e6e058ec36fecae3f1"
 
 [update]
 [update.modrinth]
 mod-id = "5FA6UP0z"
-version = "2WX2vPqZ"
+version = "U3GBdzpn"

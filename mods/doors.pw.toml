@@ -1,13 +1,13 @@
 name = "More Doors"
-filename = "metal-doors-1.18.2-0.jar"
+filename = "more-doors-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6fRQa2pB/versions/1.2/metal-doors-1.18.2-0.jar"
+url = "https://cdn.modrinth.com/data/6fRQa2pB/versions/xEiNnna8/more-doors-1.18.2.jar"
 hash-format = "sha1"
-hash = "e508f64594619ce7be04dbe3c982bf68501154f9"
+hash = "2bca807c830bb777e70cb33bf3f7d3d8d0cc4495"
 
 [update]
 [update.modrinth]
 mod-id = "6fRQa2pB"
-version = "mBeypXVV"
+version = "xEiNnna8"

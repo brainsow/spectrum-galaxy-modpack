@@ -1,18 +1,18 @@
 name = "Iris Shaders"
-filename = "iris-mc1.18.2-1.2.7.jar"
+filename = "iris-mc1.18.2-1.5.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/SEOrgwmF/iris-mc1.18.2-1.2.7.jar"
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/mBwD8Zhm/iris-mc1.18.2-1.5.0.jar"
 hash-format = "sha1"
-hash = "e9fa084bacca3e98c92b8b513a6b61aaaa711d90"
+hash = "751b0ce44ba1773f702a63fb8f0147b373c9f3cb"
 
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"
-version = "SEOrgwmF"
+version = "mBwD8Zhm"
 
 [option]
 optional = true
-default = true
 description = "[Shaders] Optifine-compatible shaders"
+default = true
