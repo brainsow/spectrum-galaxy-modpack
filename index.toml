@@ -758,11 +758,6 @@ hash = "2e63afde15fb10c8e1aac178d87a88d480ba756ca2b0e85903fb01437ce3cef3"
 metafile = true
 
 [[files]]
-file = "mods/wilder-world.pw.toml"
-hash = "b8649c627e0e925354026d47387b0095f6b1031ffb2d5a84158c8329a79ba9b4"
-metafile = true
-
-[[files]]
 file = "mods/windchimes.pw.toml"
 hash = "9c43e2729f64ac838434d547c4a33d50b16b4c13c6365658a4408a37a32d10eb"
 metafile = true
