@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctm-refabricated.pw.toml"
-hash = "bfc6d98db941720cef8a4c392d7f0f7f981c73053d74484ed0a810cb60e10f4c"
+hash = "8b19444e7ccc7a37ddd48e26bee5b5e8586ef16d3763ca853c8064f475945ba3"
 metafile = true
 
 [[files]]
