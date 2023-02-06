@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cf2801fb6961b98ba447381c84e9c86dc76604000e4a94b1fbef7da20cfd520b"
+hash = "f441da2ee20b66f7a72e476057f56f851550168ea4fea436abf674f45dc7e79b"
 metafile = true
 
 [[files]]
@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a23224eb01bd25e28c1f89b4c8acae3cdd6a74d0ac8b1f909fa3b880013a1a7f"
+hash = "3108487e76960f8e1cb70cccb973b88137f362cdf11a667bbc3208c44722fe8b"
 metafile = true
 
 [[files]]
@@ -455,6 +455,11 @@ metafile = true
 [[files]]
 file = "mods/lib.pw.toml"
 hash = "440c3684ef8e18e0787e29db7884acc50f5b02605525d50e9a83b6ea6af8cae6"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "cbf5f70c24f3ad92f7803949c99bb76a0b382a8d1fb7d7c1be9d56d3a87a334d"
 metafile = true
 
 [[files]]
@@ -610,6 +615,11 @@ metafile = true
 [[files]]
 file = "mods/plated.pw.toml"
 hash = "d027d7e40ff623be9493de93567061f0e1b31fa51b7fa1ff8be656e3763dcadd"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "bc64c339008a7663bac57ad2f5ab24c3d71f83070359b6f9a82efee15d0f0c26"
 metafile = true
 
 [[files]]
