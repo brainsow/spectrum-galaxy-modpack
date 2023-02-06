@@ -559,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/nicemod.pw.toml"
-hash = "effbbd5f1ec977363885da3ee1c91e6c8b7727a5b374fb628165189ea11171cc"
+hash = "184b759b74d3371ade9854851654ed63abd12d03933a338b6731fdacc9ee34e6"
 metafile = true
 
 [[files]]
