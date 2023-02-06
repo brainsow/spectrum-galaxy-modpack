@@ -568,11 +568,6 @@ hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "41754f06abd8ebcca4c274ff59f592d4797626afb0e5543b180d6b41154c2c30"
-metafile = true
-
-[[files]]
 file = "mods/numismatic-overhaul.pw.toml"
 hash = "b6c9387c15a451d3c5805a24b4213f644317a796ecd0f2dc53941ff211f967b3"
 metafile = true
