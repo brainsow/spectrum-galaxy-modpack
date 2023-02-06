@@ -333,11 +333,6 @@ hash = "dfb96c1c19d1bbc24ed0d53f6d7bc8b9a8502f3a878e61edd07c34de4106558c"
 metafile = true
 
 [[files]]
-file = "mods/foxpet.pw.toml"
-hash = "01b37db87247408535992d00ac73d1ed06e55c3eeaa9e7e0dfcf68469cbe3533"
-metafile = true
-
-[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "035cd492c8c4eb9a0b1351fc4912657d13de39053b85850a5930c5f55b71c7e8"
 metafile = true
