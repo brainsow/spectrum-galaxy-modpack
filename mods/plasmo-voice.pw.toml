@@ -1,18 +1,17 @@
 name = "Plasmo Voice"
-filename = "plasmovoice-fabric-1.18-1.2.19.jar"
+filename = "plasmovoice-fabric-1.18.2-1.2.11-hotfix1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/fabric-1.18-1.2.19/plasmovoice-fabric-1.18-1.2.19.jar"
+url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/fabric-1.18.2-1.2.11/plasmovoice-fabric-1.18.2-1.2.11-hotfix1.jar"
 hash-format = "sha1"
-hash = "72c305c56b654f7bb9627b384d192542b93dc1ca"
+hash = "f8635d3a560b2c6cd71a89a2ef83bf1c96abb1fc"
 
 [update]
 [update.modrinth]
 mod-id = "1bZhdhsH"
-version = "acFZc9lT"
+version = "Lwy2apRP"
 
 [option]
 optional = true
-default = false
 description = "[Audio] Voice chat (incompatible with resounding)"

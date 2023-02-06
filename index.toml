@@ -228,6 +228,11 @@ hash = "993795915e0c216aab262479482c5328efa31635704906a2ca7bf0e88f13c85f"
 metafile = true
 
 [[files]]
+file = "mods/ctm-refabricated.pw.toml"
+hash = "bfc6d98db941720cef8a4c392d7f0f7f981c73053d74484ed0a810cb60e10f4c"
+metafile = true
+
+[[files]]
 file = "mods/custom-splash-screen.pw.toml"
 hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
 metafile = true
@@ -344,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/goml-reserved.pw.toml"
-hash = "d15760f67ce06f4f75c8c14f20cb188ea2a3601df5c1cb10e64f2c014028cc30"
+hash = "084c7aaabed0425611a1af338a8bd4fdda01696ba06a26c7625c7df62176362c"
 metafile = true
 
 [[files]]
@@ -379,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "b48fd681e7aa74e6954cffd4bee1bbfd5f1d31714b12664159d32fb71e1d4099"
+hash = "a2b0c179b57d4ab601b5cfabb90d7c2746996b8758f73a1d52f06ed5b8f03949"
 metafile = true
 
 [[files]]
@@ -389,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "2e4e81faac8d9f7e9853f74bc65f88745cd0340650022b2177616c45d49f0b93"
+hash = "a23224eb01bd25e28c1f89b4c8acae3cdd6a74d0ac8b1f909fa3b880013a1a7f"
 metafile = true
 
 [[files]]
@@ -399,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "dfe89b12e2fd477010fdb575b2aeb947d2258aff1363c7edf36928f50bd1dfdc"
+hash = "ff583f1422a0668d73bbdb28e78607e4ae860006206fa2cde1c683d3cf8163dc"
 metafile = true
 
 [[files]]
@@ -488,6 +493,11 @@ hash = "4ac2dfec504a5a5bcdbcd8f5b992e188467238cfe19403c2815d3d516393df8a"
 metafile = true
 
 [[files]]
+file = "mods/mavapi.pw.toml"
+hash = "fc34d2ab431e012c8786b88eb8b0677028a6eb2153a020e5ca8214d451f31eab"
+metafile = true
+
+[[files]]
 file = "mods/mavm.pw.toml"
 hash = "36507f0e0fa07a7acc8974ee0aa3ba8c2587da8be373a446974125f9b0246677"
 metafile = true
@@ -569,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
+hash = "88d781b0098eb2a87eba798af21580139425d85ab34065b7f0917d86bd084f4c"
 metafile = true
 
 [[files]]
@@ -594,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "4aa4bf300d0030f33cae2da9561e878d6770250bfdfcc65149d236ec6141f635"
+hash = "6b9c33c4bf2132eecfee1e5a30acf2c9b10a752428a4e00437318d3435257cbd"
 metafile = true
 
 [[files]]
@@ -764,7 +774,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-items.pw.toml"
-hash = "69ba48d95bb0c842b1bfdbb4a43868a50dd0655e33d1a1f70470158fbb8b7672"
+hash = "8f00a4adab0b3584dd03d683c7ded5245278a1212f482b181cc02323017304a6"
 metafile = true
 
 [[files]]
