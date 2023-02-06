@@ -163,11 +163,6 @@ hash = "8d3de765ffa83b0499e328dbd1827e35c2a9f88c11cdc09ba1f4efe7d68f531f"
 metafile = true
 
 [[files]]
-file = "mods/candlestick.pw.toml"
-hash = "f5c37e95edb6e11ae41fbfbd09b2253d8a2aeaf98f00afc6b12cde8a1b1656a8"
-metafile = true
-
-[[files]]
 file = "mods/capybara-fabric.pw.toml"
 hash = "fc919abfff59e1c0b92d29d4c1c590c1727e93025dedb6d33dbb65fd7b852482"
 metafile = true
