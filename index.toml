@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "369cfc369e41a6e9f23343a5f7d0547acf76aaf88ce0a221ba7f67d081b054fc"
+hash = "7f3216c3a20fef05191caca459de0898284f4e18f3400f7ff4c7f6b15843d76e"
 metafile = true
 
 [[files]]
@@ -769,7 +769,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-items.pw.toml"
-hash = "6c53bebc58eca57caed1ebf163c7ae632076e2c15ba04e502c3b756535217086"
+hash = "842a35e602e4171feaee8db1958fd05055c7f4483e71822b7bc2267203d02018"
 metafile = true
 
 [[files]]

@@ -15,4 +15,4 @@ version = "Sqfk9myM"
 [option]
 optional = true
 default = true
-description = "[Shaders] Pixel shaders"
+description = "[Shaders] Shaders to stylize minecraft"
