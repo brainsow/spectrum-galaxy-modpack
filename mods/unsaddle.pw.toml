@@ -1,13 +1,13 @@
 name = "Unsaddle"
-filename = "unsaddle-0.1.0+1.17.jar"
+filename = "unsaddle-0.2.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/45F9B0j8/versions/0.1.0+1.17/unsaddle-0.1.0%2B1.17.jar"
+url = "https://cdn.modrinth.com/data/45F9B0j8/versions/WIaNBvsO/unsaddle-0.2.1.jar"
 hash-format = "sha1"
-hash = "ed51612522e0927ead7695655cdc046671750f21"
+hash = "96729f2f0d58d9c6f1312099d7649c481ed0e99b"
 
 [update]
 [update.modrinth]
 mod-id = "45F9B0j8"
-version = "ruIUf5y0"
+version = "WIaNBvsO"

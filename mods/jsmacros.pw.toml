@@ -1,18 +1,18 @@
 name = "JsMacros"
-filename = "jsmacros-1.18.2-FABRIC-1.6.6.jar"
+filename = "jsmacros-1.18.2-FABRIC-1.8.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3wGWhm8A/versions/1.18.2-1.6.6-fabric/jsmacros-1.18.2-FABRIC-1.6.6.jar"
+url = "https://cdn.modrinth.com/data/3wGWhm8A/versions/yFUv59um/jsmacros-1.18.2-FABRIC-1.8.3.jar"
 hash-format = "sha1"
-hash = "90ac5064aab9cd9d311eaa9ff36e001c1af4586e"
+hash = "7a0454636fea15418bf26a777c154977d9fb436c"
 
 [update]
 [update.modrinth]
 mod-id = "3wGWhm8A"
-version = "902xzv6F"
+version = "yFUv59um"
 
 [option]
 optional = true
-default = true
 description = "[Hacking] write javascript to control minecraft"
+default = true

@@ -1,13 +1,13 @@
-name = "The London Underground"
-filename = "MTR-LU-Addon-fabric-1.18.2-3.2.0-1.7.jar"
+name = "The Tube"
+filename = "MTR-LU-Addon-fabric-1.18.2-3.2.0-1.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "dcf74680ea328e1ac3a2e9473f6dfc661d2dceb6"
+hash = "bb30891e3fd9aeb62c77e9ab1980760432ccc410"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4213044
+file-id = 4503087
 project-id = 545686
