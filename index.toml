@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/nicemod.pw.toml"
-hash = "effbbd5f1ec977363885da3ee1c91e6c8b7727a5b374fb628165189ea11171cc"
+hash = "2bfbf4cf4ec89d36412b0a99d4e07a5ecdb1e939d1ae1d5f3a681f0109cdfbca"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "51ea57345c9369d53fd17ca8663f43f587d3bee6765a0afdf43ab7955d94eca2"
+hash = "639602d5f81bd31dcb78acc1b54f6d244189c447729ea3772b9dbd1171b8a153"
 metafile = true
 
 [[files]]
@@ -650,11 +650,6 @@ metafile = true
 [[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "a2eeafe4895384163835003003991d4f3e09d867135144d49eeed8f4358e690d"
-metafile = true
-
-[[files]]
-file = "mods/server-redirect.pw.toml"
-hash = "fe0eca154c60aad4231b4ee9976e6502f4293842bd5722294e0425461534e649"
 metafile = true
 
 [[files]]
