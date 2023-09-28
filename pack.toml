@@ -1,12 +1,12 @@
 name = "Spectrum Galaxy"
 author = "SGMT"
-version = "1.1.0-rc3"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5fd9bf8e6601afa7fec41853e0abfd4ccc5e6ff0ffcbef926794d7cb19d8d4ca"
+hash = "cb782afaa50b595e0c9d999406d57f656bec74128ebc20182955229568b26531"
 
 [versions]
 fabric = "0.14.13"
